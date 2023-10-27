@@ -2,21 +2,21 @@
   {
     "_ID": "1",
     "name": "Challenge Week",
-    "imgURL": "./src/Images/Projects/chalWeek.png",
+    "imgURL": "/Projects/chalWeek.png",
     "desc": "I made multiple games within this one week! (Pong, Tic Tac Toe & More)",
     "gitURL": "https://liam02walker.github.io/multipleChallenges/"
   },
   {
     "_ID": "2",
     "name": "Project Week #1",
-    "imgURL": "./src/Images/Projects/tamoGame.png",
+    "imgURL": "/Projects/tamoGame.png",
     "desc": "As a team we made a Tamagochi theme game within one week!",
     "gitURL": "https://liam02walker.github.io/virtualPet/"
   },
   {
     "_ID": "3",
     "name": "Powerful Pastry",
-    "imgURL": "./src/Images/Projects/pastry.png",
+    "imgURL": "/Projects/pastry.png",
     "desc": "This was one of my earlier projects, and I got user Input to work!",
     "gitURL": "https://liam02walker.github.io/Pastry-Site/"
   }
