@@ -8,7 +8,7 @@ export default function Home({ handleImg, bigImg }) {
   return (
     <main>
       <div className="sectionContainer">
-        <img src="./src/Images/selfPic.jpg" alt="Selfie of myself" className="welcomeImg" onClick={handleImg} />
+        <img src="/selfPic.jpg" alt="Selfie of myself" className="welcomeImg" onClick={handleImg} />
         <h2>WELCOME</h2>
         <p>
           Welcome to my Portfolio site! I am Liam Walker, learn more about me{" "}
